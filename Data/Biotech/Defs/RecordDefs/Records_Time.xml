@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+ 
+  <RecordDef>
+    <defName>TimeAsChildInColony</defName>
+    <label>time as child in community</label><!-- text_todo -->
+    <description>Total time spent as a child in the community.</description><!-- text_todo -->
+    <type>Time</type>
+    <workerClass>RecordWorker_TimeAsChildInColony</workerClass>
+  </RecordDef>
+
+</Defs>
